@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animals_App</string>
+    <string name="todo">TODO</string>
+    <string name="animals">Animals</string>
+    <string name="animal_image">Animal Image</string>
+    <string name="text">Text</string>
+</resources>
